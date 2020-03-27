@@ -8,6 +8,16 @@ body {
     background-size: 100%;
 }
 
+div.navigation-menu {
+    background-color: #EB7F00;
+    margin: -1em -5em 1em -5em;
+    padding: 1em
+}
+
+th, tr {
+    padding: 0 1.5em 0 1.5em;
+}
+
 div.login-page {
     text-align: left;
     margin: 1em 30% 0 30%;

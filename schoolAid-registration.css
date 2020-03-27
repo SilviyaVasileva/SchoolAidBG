@@ -6,6 +6,16 @@ body {
     color: #225378;
 }
 
+div.navigation-menu {
+    background-color: #EB7F00;
+    margin: -1em -5em 1em -5em;
+    padding: 1em
+}
+
+th, tr {
+    padding: 0 1.5em 0 1.5em;
+}
+
 div.registration {
     text-align: left;
     margin-top: 1em;
