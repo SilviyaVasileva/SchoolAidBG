@@ -1,0 +1,61 @@
+body {
+    margin: 1% 5% 1% 5%;
+    text-align: justify;
+    background-color: #225378;
+    font-family: 'Times New Roman', serif;
+    color: #225378;
+    background-image: url("https://images.collegexpress.com/article/graduate-school-US-graduate-school-help.jpg");
+    background-size: 100%;
+}
+
+div.login-page {
+    text-align: left;
+    margin: 1em 30% 0 30%;
+    border: solid 1px #225378;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #F3FFE2 inset;
+    background-color: #F3FFE2;
+}
+
+h1 {
+    text-align: center;
+    background-color: #EB7F00;
+    margin-top: -2.5px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    color: #F3FFE2;
+}
+
+label.password,
+label.email {
+    padding: 30px 15px 30px 15px;
+    margin: 3% 5% 3% 5%;
+    text-align: start;
+    font-size: 20px;
+}
+
+#email,
+#password {
+    margin: 0 0 0 8%;
+}
+
+p {
+    padding: 0px 15px 30px 15px;
+    margin: 3% 5% 3% 5%;
+    text-align: start;
+    font-size: 20px;
+}
+
+input.button {
+    width: 150px;
+    height: 30px;
+    margin: 0 30% 0 30%;
+    background-color: #EB7F00;
+    color: #F3FFE2;
+}
+
+p.have-registration {
+    color: #1695A3;
+    font-size: 10px;
+    margin: 0 0 5% 35%;
+}
