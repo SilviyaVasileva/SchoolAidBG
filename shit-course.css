@@ -6,16 +6,6 @@ body {
     color: #225378;
 }
 
-div.navigation-menu {
-    background-color: #EB7F00;
-    margin: -1em -5em 1em -5em;
-    padding: 1em
-}
-
-th, tr {
-    padding: 0 1.5em 0 1.5em;
-}
-
 div.biology-page {
     text-align: left;
     margin-top: 1em;
@@ -57,4 +47,28 @@ h1 {
     column-gap: 40px;
     margin: 0 10% 0 10%;
     font-weight: normal;
+}
+
+div.navigation-menu {
+    background-color: #EB7F00;
+    margin: -1em -5em 1em -5em;
+    padding: 1em
+}
+
+th,
+tr {
+    padding: 0 1.5em 0 1.5em;
+}
+
+a {
+    text-decoration: none;
+    color: #225378;
+}
+
+a:visited {
+    color: #225378;
+}
+
+a:hover {
+    color: #EB7F00;
 }

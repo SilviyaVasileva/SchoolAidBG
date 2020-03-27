@@ -8,16 +8,6 @@ body {
     background-size: 100%;
 }
 
-div.navigation-menu {
-    background-color: #EB7F00;
-    margin: -1em -5em 1em -5em;
-    padding: 1em
-}
-
-th, tr {
-    padding: 0 1.5em 0 1.5em;
-}
-
 div.login-page {
     text-align: left;
     margin: 1em 30% 0 30%;
@@ -34,6 +24,17 @@ h1 {
     padding: 10px 10px 10px 10px;
     border-radius: 10px;
     color: #F3FFE2;
+}
+
+div.navigation-menu {
+    background-color: #EB7F00;
+    margin: -1em -5em 1em -5em;
+    padding: 1em
+}
+
+th,
+tr {
+    padding: 0 1.5em 0 1.5em;
 }
 
 label.password,
@@ -68,4 +69,17 @@ p.have-registration {
     color: #1695A3;
     font-size: 10px;
     margin: 0 0 5% 35%;
+}
+
+a {
+    text-decoration: none;
+    color: #225378;
+}
+
+a:visited {
+    color: #225378;
+}
+
+a:hover {
+    color: #EB7F00;
 }

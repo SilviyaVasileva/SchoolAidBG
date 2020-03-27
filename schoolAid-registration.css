@@ -6,16 +6,6 @@ body {
     color: #225378;
 }
 
-div.navigation-menu {
-    background-color: #EB7F00;
-    margin: -1em -5em 1em -5em;
-    padding: 1em
-}
-
-th, tr {
-    padding: 0 1.5em 0 1.5em;
-}
-
 div.registration {
     text-align: left;
     margin-top: 1em;
@@ -76,4 +66,28 @@ p.have-registration {
     color: #1695A3;
     font-size: 10px;
     margin: 0 0 5% 35%;
+}
+
+div.navigation-menu {
+    background-color: #EB7F00;
+    margin: -1em -5em 1em -5em;
+    padding: 1em
+}
+
+th,
+tr {
+    padding: 0 1.5em 0 1.5em;
+}
+
+a {
+    text-decoration: none;
+    color: #225378;
+}
+
+a:visited {
+    color: #225378;
+}
+
+a:hover {
+    color: #EB7F00;
 }

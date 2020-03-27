@@ -6,16 +6,6 @@ body {
     color: #225378;
 }
 
-div.navigation-menu {
-    background-color: #EB7F00;
-    margin: -1em -5em 1em -5em;
-    padding: 1em
-}
-
-th, tr {
-    padding: 0 1.5em 0 1.5em;
-}
-
 div.supply-page {
     text-align: left;
     margin-top: 1em;
@@ -82,4 +72,28 @@ h1 {
     padding: 10px 10px 10px 10px;
     border-radius: 10px;
     color: #F3FFE2;
+}
+
+div.navigation-menu {
+    background-color: #EB7F00;
+    margin: -1em -5em 1em -5em;
+    padding: 1em
+}
+
+th,
+tr {
+    padding: 0 1.5em 0 1.5em;
+}
+
+a {
+    text-decoration: none;
+    color: #225378;
+}
+
+a:visited {
+    color: #225378;
+}
+
+a:hover {
+    color: #EB7F00;
 }

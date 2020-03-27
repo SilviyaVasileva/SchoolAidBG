@@ -6,16 +6,6 @@ body {
     color: #225378;
 }
 
-div.navigation-menu {
-    background-color: #EB7F00;
-    margin: -1em -5em 1em -5em;
-    padding: 1em
-}
-
-th, tr {
-    padding: 0 1.5em 0 1.5em;
-}
-
 div.math-page {
     text-align: left;
     margin-top: 1em;
@@ -30,6 +20,17 @@ div.math-page {
     font-size: 25px;
     padding: 0 15px 15px 15px;
     margin: 0 3% 0 3%;
+}
+
+div.navigation-menu {
+    background-color: #EB7F00;
+    margin: -1em -5em 1em -5em;
+    padding: 1em
+}
+
+th,
+tr {
+    padding: 0 1.5em 0 1.5em;
 }
 
 .math p {
